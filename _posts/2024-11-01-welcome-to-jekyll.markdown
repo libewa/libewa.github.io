@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Hello, World!"
+date:   2024-11-01 14:24 +0100
+categories: github
+---
+This is my first ever blog entry. Maybe I'll write more in the future. Today, my application to the GitHub Student Developer Pack was approved. I'm excited to start using the tools and services that come with it.
+
+And I've already started: Most of this text was written by Copilot, which is already suggesting some more advertising.
+
+See you, maybe soon, on the Interwebz (wow, that sounds cringy).
