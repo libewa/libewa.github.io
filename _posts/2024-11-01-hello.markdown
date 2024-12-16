@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Hello, World!"
 date:   2024-11-01 14:24 +0100
 tags: github
