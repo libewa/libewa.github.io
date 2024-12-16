@@ -20,8 +20,8 @@
 
 title: libewa.github.io
 author:
-	name: Linus Warnatz
-	email: linus@libewa.xyz
+  name: Linus Warnatz
+  email: linus@libewa.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Mediocre Swift and TypeScript code,
   with a bit of Python and C++.
@@ -31,16 +31,16 @@ show_exerpts: true
 header_pages:
   - about.md
 minima:
-	social_links:
-	- { platform: github, user_url: "https://github.com/libewa" }
-	- { platform: codeberg, user_url: "https://codeberg.org/libewa" }
-	date_format: "%A, %Y-%m-%d %H:%M %Z"
-	skin: "auto"
+  social_links:
+  - { platform: github, user_url: "https://github.com/libewa" }
+  - { platform: codeberg, user_url: "https://codeberg.org/libewa" }
+  date_format: "%A, %Y-%m-%d %H:%M %Z"
+  skin: "auto"
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
