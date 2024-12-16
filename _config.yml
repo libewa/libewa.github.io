@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: libewa.github.io
+title: libewa.xyz
 author:
   name: Linus Warnatz
   email: linus@libewa.xyz
@@ -38,7 +38,7 @@ minima:
   skin: "auto"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: h01000110/windows-95
 plugins:
 - jekyll-feed
 - jekyll-remote-theme
