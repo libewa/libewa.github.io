@@ -13,4 +13,7 @@ remote_theme: h01000110/windows-95
 plugins:
 - jekyll-feed
 - jekyll-remote-theme
+- jemoji
+- jekyll-default-layout
+- jekyll-sitemap
 
