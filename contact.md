@@ -4,4 +4,4 @@ permalink: /contact/
 layout: page
 ---
 
-Contact me via E-Mail: [linus@libewa.xyz](mailto:linus@libewa.xyz).
+To contact me, [open a GitHub Issue](https://github.com/libewa/libewa.github.io/issues/new). I am sorry that this is necessary, but I don‘t want spam bots getting what is just an alias to my personal email. We can work something out.
