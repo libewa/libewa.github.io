@@ -12,10 +12,13 @@ social_links:
 - { platform: github,  user_url: "https://github.com/libewa" }
 - { platform: codeberg, user_url: "https://twitter.com/libewa" }
 
+tag_page_layout: tag
+tag_page_dir: tag
+
 # Build settings
 plugins:
 - jekyll-feed
-- jekyll-remote-theme
 - jemoji
 - jekyll-default-layout
+- jekyll-tagging
 - jekyll-sitemap
