@@ -20,6 +20,8 @@ static_links:
 
 tag_page_layout: tag
 tag_page_dir: tag
+show_excerpts: true
+show_page_titles: true
 
 # Build settings
 theme: jekyll-glass
