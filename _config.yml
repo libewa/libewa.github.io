@@ -10,13 +10,19 @@ url: "libewa.xyz" # the base hostname & protocol for your site, e.g. http://exam
 
 social_links:
 - { platform: github,  user_url: "https://github.com/libewa" }
-- { platform: codeberg, user_url: "https://twitter.com/libewa" }
+- { platform: codeberg, user_url: "https://codeberg.com/libewa" }
 - { platform: github, title: "Gists", user_url: "https://gist.github.com/libewa" }
+static_links:
+- { title: "Home", url: "/" }
+- { title: "About", url: "/about" }
+- { title: "Contact", url: "/contact" }
+- { title: "RSS", url: "/feed.xml" }
 
 tag_page_layout: tag
 tag_page_dir: tag
 
 # Build settings
+theme: jekyll-glass
 plugins:
 - jekyll-feed
 - jemoji
