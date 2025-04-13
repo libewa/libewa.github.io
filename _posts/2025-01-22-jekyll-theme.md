@@ -2,7 +2,7 @@
 layout: post
 title: My own Jekyll theme
 date: 2025-01-22 18:06 +0100
-tags: code github site
+tags: code github site design
 ---
 
 Every GitHub Pages blog starts out with the default Minima theme, which looks ugly, boring, and, well... default.
