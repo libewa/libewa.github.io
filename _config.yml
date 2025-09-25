@@ -12,6 +12,7 @@ social_links:
 - { platform: github,  user_url: "https://github.com/libewa" }
 - { platform: codeberg, user_url: "https://codeberg.com/libewa" }
 - { platform: github, title: "Gists", user_url: "https://gist.github.com/libewa" }
+- { platform: mastodon, user_url: "https://mastodon.social/@libewa" }
 static_links:
 - { title: "Home", url: "/" }
 - { title: "About", url: "/about" }
