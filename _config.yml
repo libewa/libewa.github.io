@@ -10,7 +10,7 @@ url: "libewa.xyz" # the base hostname & protocol for your site, e.g. http://exam
 
 social_links:
 - { platform: github,  user_url: "https://github.com/libewa" }
-- { platform: codeberg, user_url: "https://codeberg.com/libewa" }
+- { platform: codeberg, user_url: "https://codeberg.org/libewa" }
 - { platform: github, title: "Gists", user_url: "https://gist.github.com/libewa" }
 - { platform: mastodon, user_url: "https://blahaj.zone/@libewa" }
 static_links:
